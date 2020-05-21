@@ -11,4 +11,4 @@ Similar to the YouTube script, this changes every Reddit URLs so `reddit.com` be
 
 ## Sensible Instagram (last update 2020-05-21)
 
-Do you know another website that sucks?  Instagram.  Now, when you're not logged in and are scrolling through a profile, it will block everything with a hideous modal asking you to log in.  I'm not, Instagram, get over it.  This script removes the modal and re-enable scrolling.  It will probably be the most updated script since the people working for Instagram are mad lads and like to chage CSS classes.
+Do you know another website that sucks?  Instagram.  Now, when you're not logged in and are scrolling through a profile, it will block everything with a hideous modal asking you to log in.  I'm not, Instagram, get over it.  This script removes the modal and re-enable scrolling.  It will probably be the most updated script since the people working for Instagram are mad lads and like to change CSS classes.
