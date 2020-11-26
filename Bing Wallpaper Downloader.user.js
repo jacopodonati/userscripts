@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         Bing Wallpaper Downloader
 // @namespace    https://www.bing.com
-// @version      20201107
-// @description  try to take over the world!
-// @author       You
+// @version      20201126
+// @description  Download Bing Wallpapers
+// @author       Jacopo Donati
 // @match        https://www.bing.com/*
 // @grant        none
 // ==/UserScript==
 
 function updateUrl() {
-    let bg = window.getComputedStyle(document.getElementsByClassName('img_cont')[0]).getPropertyValue('background-image');
+    let bg = window.getComputedStyle(document.getElementsByClassName('img_cont')[0]).getPropertyValue('background-image').replace('1920x1080','UHD');
     let bg_url = bg.substring('url("'.length, bg.indexOf('jpg') + 3);
     let bg_file = bg.substring(bg.indexOf('id=OHR.')+"id=OHR.".length, bg.indexOf('jpg') + 3);
 

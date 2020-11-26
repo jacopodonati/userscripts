@@ -2,11 +2,16 @@
 Some userscripts to use with Greasemonkey
 
 ## Bing Downloader
-_last update 2020-11-07_
+_last update 2020-11-26_
 
 Bing has some pretty wallpapers, but the ones you can download are watermarked.  This script changes the link to download the wallpaper to the image currently displayed.
 
 It's not really different from what you can do with [jacopodonati/img-dl](https://github.com/jacopodonati/img-dl).
+
+### Changelog
+
+- 2020-11-26: now it downloads a UHD version of the image instead of a full HD.
+
 
 ## Disable YouTube Polymer
 _last update 2020-11-06_
