@@ -1,5 +1,8 @@
 # userscripts
-Some userscripts to use with Greasemonkey
+
+These are some userscripts to use with Greasemonkey, Tampermonkey, or similar extensions.  If you're on a Mac and use Safari, I recommend [Userscripts](https://apps.apple.com/it/app/userscripts/id1463298887?mt=12), which is great, free, and ad-free.
+
+I can't say these scripts are all tested, and it's very likely you'll have to make small changes to make them work in your extension of choice.  Also, they're prone to break the first time the website gets updated.  I can assure the script worked when it was last updated, but nothing more.  Usually, however, is just a matter of changing a CSS class name.
 
 ## Bing Downloader
 _last update 2020-11-26_
