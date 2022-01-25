@@ -16,6 +16,11 @@ It's not really different from what you can do with [jacopodonati/img-dl](https:
 - 2020-11-26: now it downloads a UHD version of the image instead of a full HD.
 
 
+## Clean Twitter
+
+There are a lot of small things I don't like in my Twitter feed, and the biggest of them all is ads.
+
+
 ## Disable YouTube Polymer
 _last update 2020-11-06_
 
@@ -23,10 +28,12 @@ _last update 2020-11-06_
 
 As of late 2020, Google killed it.  We're stuck with Polymer.
 
+
 ## Old Reddit
 _last update 2020-05-21_
 
 Similar to the YouTube script, this changes every Reddit URLs so `reddit.com` becomes `old.reddit.com`.  That's because the new Reddit sucks.
+
 
 ## Sensible Instagram
 _last update 2020-11-06_

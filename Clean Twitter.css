@@ -1,0 +1,9 @@
+/* ==UserStyle==
+@name        Clean Twitter
+@description Remove ads from Twitter
+@match       https://twitter.com/*
+==/UserStyle== */
+
+div[data-testid=placementTracking] {
+    display: none;
+}
